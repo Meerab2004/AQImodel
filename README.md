@@ -1,0 +1,1 @@
+a machine learning model to predict the Air Quality Index (AQI) based on various environmental features such as temperature, humidity, wind speed, and pollutants' concentration. The model aims to provide accurate predictions that can be used for environmental monitoring and public health advisory.
